@@ -1,0 +1,1 @@
+# huggingface_course_computervision
